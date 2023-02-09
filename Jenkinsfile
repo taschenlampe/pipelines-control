@@ -4,7 +4,7 @@ stage('Checkout') {
 
 git branch: 'main',
 
-url: 'https://github.com/taschenlampe/do400-pipelines-control'
+url: 'https://github.com/taschenlampe/pipelines-control'
 
 }
 
